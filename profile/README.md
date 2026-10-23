@@ -8,6 +8,6 @@ Our activities have included Nowruz and Yalda celebrations, film and poetry, new
 
 To connect with SIGS, ask about a gathering, or discuss a collaboration, email [sigs@uci.edu](mailto:sigs@uci.edu).
 
-We maintain our website in [sigs-uci.github.io](https://github.com/sigs-uci/sigs-uci.github.io). That repository holds the event archive, community pages, and officer editing instructions. Website publication is being prepared.
+Visit [sigs-uci.github.io](https://sigs-uci.github.io) for our event archive, community programs, campus resources and current team. We maintain the website and officer editing instructions in the [website repository](https://github.com/sigs-uci/sigs-uci.github.io).
 
 For a public website problem or factual correction, see our [contribution guidance](https://github.com/sigs-uci/.github/blob/main/CONTRIBUTING.md). Send personal or sensitive matters by email.
