@@ -1,0 +1,36 @@
+name: Website problem
+description: Report a broken page or an accessibility barrier using public information.
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This report will be public. Do not include personal information, private messages, or credentials. Email sigs@uci.edu for sensitive matters. Use the repository for the affected website.
+  - type: input
+    id: page
+    attributes:
+      label: Public page URL
+      description: Link the page where you encountered the problem.
+      placeholder: https://sigs-uci.github.io/en/
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Describe the problem and the steps that led to it. Include browser and device type if relevant.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect?
+      description: Describe the page or action you were trying to use.
+    validations:
+      required: true
+  - type: checkboxes
+    id: public-report
+    attributes:
+      label: Before submitting
+      options:
+        - label: I checked that this report contains only information suitable for a public issue.
+          required: true

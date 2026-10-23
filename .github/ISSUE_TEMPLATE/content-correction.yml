@@ -1,0 +1,35 @@
+name: Public content correction
+description: Suggest a factual correction to a public SIGS page.
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This report will be public. For a removal request or a correction that needs private supporting material, email sigs@uci.edu. Do not attach private correspondence or personal contact details.
+  - type: input
+    id: page
+    attributes:
+      label: Public page URL
+      description: Link the page that needs a correction.
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: What should change?
+      description: Identify the current text and suggest the correction. Preserve uncertainty when a historical detail is unknown.
+    validations:
+      required: true
+  - type: textarea
+    id: public-source
+    attributes:
+      label: Public source or explanation
+      description: Link a public source if available. If the evidence is private, say that you will send it by email without posting it here.
+    validations:
+      required: true
+  - type: checkboxes
+    id: public-report
+    attributes:
+      label: Before submitting
+      options:
+        - label: I checked that this report contains only information suitable for a public issue.
+          required: true
