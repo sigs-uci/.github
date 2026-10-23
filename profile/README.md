@@ -10,6 +10,8 @@ To connect with SIGS, ask about a gathering, or discuss a collaboration, email [
 
 Visit [sigs-uci.github.io](https://sigs-uci.github.io) for our event archive, community programs, campus resources and current team. We maintain the website and officer editing instructions in the [website repository](https://github.com/sigs-uci/sigs-uci.github.io).
 
+Explore photographs and posters in [Memories](https://sigs-uci.github.io/en/community/memories/), and watch clips on [Videos](https://sigs-uci.github.io/en/community/videos/).
+
 For a public website problem or factual correction, see our [contribution guidance](https://github.com/sigs-uci/.github/blob/main/CONTRIBUTING.md). Send personal or sensitive matters by email.
 
 <div dir="rtl" lang="fa">
@@ -19,5 +21,7 @@ For a public website problem or factual correction, see our [contribution guidan
 <p>برنامه‌های ما شامل جشن‌های نوروز و یلدا، فیلم و شعر، دورهمی دانشجویان تازه‌وارد و ارتباط‌های حرفه‌ای بوده است. برای آشنایی، پرسش دربارهٔ برنامه‌ها یا گفت‌وگو دربارهٔ همکاری، به <a href="mailto:sigs@uci.edu">sigs@uci.edu</a> ایمیل بزنید.</p>
 
 <p>آرشیو رویدادها، برنامه‌های جمعی، منابع دانشگاهی و اعضای تیم را در <a href="https://sigs-uci.github.io/fa/">نسخهٔ فارسی وب‌سایت</a> ببینید. اصلاحات را می‌توانید به فارسی یا انگلیسی پیشنهاد کنید؛ <a href="https://github.com/sigs-uci/.github/blob/main/CONTRIBUTING.md">راهنمای مشارکت</a> مسیر ثبت گزارش را توضیح می‌دهد. موضوعات شخصی یا حساس را با ایمیل در میان بگذارید.</p>
+
+<p>عکس‌ها و پوسترها را در <a href="https://sigs-uci.github.io/fa/community/memories/">خاطره‌ها</a> ببینید و برای تماشای کلیپ‌ها به <a href="https://sigs-uci.github.io/fa/community/videos/">ویدیوها</a> بروید.</p>
 
 </div>
