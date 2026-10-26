@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/sigs-uci/.github/main/profile/assets/sigs-logo.png" width="112" height="112" alt="SIGS emblem">
+<img src="https://raw.githubusercontent.com/sigs-uci/.github/main/profile/assets/sigs-logo.png" width="360" alt="SIGS emblem">
 
 # SIGS at UC Irvine
 
